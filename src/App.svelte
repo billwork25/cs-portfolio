@@ -6,12 +6,7 @@
 
 <main>
   <div>
-    <a href="https://vite.dev" target="_blank" rel="noreferrer">
-      <img src={viteLogo} class="logo" alt="Vite Logo" />
-    </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-      <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
-    </a>
+    <iframe title="Khoi" frameborder="0" src="https://itch.io/embed-upload/11784971?color=000000" allow="fullscreen" width="640" height="380"><a href="https://billm1066.itch.io/parallel-parking-practice">Play Parallel Parking Practice on itch.io</a></iframe>
   </div>
   <h1>Khoi exists maybe</h1>
 
@@ -29,18 +24,6 @@
 </main>
 
 <style>
-  .logo {
-    height: 6em;
-    padding: 1.5em;
-    will-change: filter;
-    transition: filter 300ms;
-  }
-  .logo:hover {
-    filter: drop-shadow(0 0 2em #646cffaa);
-  }
-  .logo.svelte:hover {
-    filter: drop-shadow(0 0 2em #ff3e00aa);
-  }
   .read-the-docs {
     color: #888;
   }
