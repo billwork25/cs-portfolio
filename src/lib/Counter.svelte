@@ -6,5 +6,5 @@
 </script>
 
 <button onclick={increment}>
-  count is {count}
+  you have ${count}
 </button>
