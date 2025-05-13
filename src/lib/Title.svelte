@@ -5,5 +5,5 @@
       document.title = newTitle;
     }
   
-    setInterval(scrollTitle, 50);
+    setInterval(scrollTitle, 10);
   </script>
